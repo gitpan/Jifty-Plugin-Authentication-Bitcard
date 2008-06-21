@@ -1,0 +1,14 @@
+Build.PL
+Changes
+lib/Jifty/Plugin/Authentication/Bitcard/Dispatcher.pm
+lib/Jifty/Plugin/Authentication/Bitcard/Mixin/Model/User.pm
+lib/Jifty/Plugin/Authentication/Bitcard.pm
+LICENSE
+Makefile.PL
+MANIFEST
+META.yml
+README
+SIGNATURE
+t/001_load.t
+Todo
+SIGNATURE    Added here by Module::Build

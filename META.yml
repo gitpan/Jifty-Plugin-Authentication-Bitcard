@@ -1,0 +1,24 @@
+---
+name: Jifty-Plugin-Authentication-Bitcard
+version: 0.052
+author:
+  - 'Jacob Helwig <jacob@technosorcery.net>'
+abstract: Bitcard authentication plugin
+license: perl
+resources:
+  license: http://dev.perl.org/licenses/
+requires:
+  Authen::Bitcard: 0.86
+  Jifty: 0.80408
+provides:
+  Jifty::Plugin::Authentication::Bitcard:
+    file: lib/Jifty/Plugin/Authentication/Bitcard.pm
+    version: 0.052
+  Jifty::Plugin::Authentication::Bitcard::Dispatcher:
+    file: lib/Jifty/Plugin/Authentication/Bitcard/Dispatcher.pm
+  Jifty::Plugin::Authentication::Bitcard::Mixin::Model::User:
+    file: lib/Jifty/Plugin/Authentication/Bitcard/Mixin/Model/User.pm
+generated_by: Module::Build version 0.280801
+meta-spec:
+  url: http://module-build.sourceforge.net/META-spec-v1.2.html
+  version: 1.2

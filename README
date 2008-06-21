@@ -1,0 +1,22 @@
+At the very least you should be able to use this set of instructions
+to install the module...
+
+perl Build.PL
+./Build
+./Build test
+./Build install
+
+Git repo:
+    git clone http://technosorcery.net/git/jifty-auth-bitcard
+
+    http://technosorcery.net/git/?p=jifty-auth-bitcard
+
+Mailing list:
+    jifty-plugin-authen-bitcard@lists.technosorcery.net
+
+    http://lists.technosorcery.net/listinfo.cgi/jifty-plugin-authen-bitcard-technosorcery.net
+
+Bugs:
+    Please send all bug reports to:
+        bug-Jifty-Plugin-Authentication-Bitcard@rt.cpan.org
+
