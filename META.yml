@@ -1,6 +1,6 @@
 ---
 name: Jifty-Plugin-Authentication-Bitcard
-version: 0.052
+version: 0.053
 author:
   - 'Jacob Helwig <jacob@technosorcery.net>'
 abstract: Bitcard authentication plugin
@@ -13,12 +13,14 @@ requires:
 provides:
   Jifty::Plugin::Authentication::Bitcard:
     file: lib/Jifty/Plugin/Authentication/Bitcard.pm
-    version: 0.052
+    version: 0.053
   Jifty::Plugin::Authentication::Bitcard::Dispatcher:
     file: lib/Jifty/Plugin/Authentication/Bitcard/Dispatcher.pm
+    version: 0.053
   Jifty::Plugin::Authentication::Bitcard::Mixin::Model::User:
     file: lib/Jifty/Plugin/Authentication/Bitcard/Mixin/Model/User.pm
-generated_by: Module::Build version 0.280801
+    version: 0.053
+generated_by: Module::Build version 0.2808
 meta-spec:
   url: http://module-build.sourceforge.net/META-spec-v1.2.html
   version: 1.2

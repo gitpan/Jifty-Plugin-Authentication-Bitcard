@@ -6,7 +6,7 @@ use base qw/Jifty::Plugin/;
 
 use Authen::Bitcard ();
 
-our $VERSION = '0.052';
+our $VERSION = '0.053';
 
 =head1 NAME
 

@@ -4,6 +4,8 @@ use warnings;
 package Jifty::Plugin::Authentication::Bitcard::Dispatcher;
 use Jifty::Dispatcher -base;
 
+our $VERSION = '0.053';
+
 =head1 NAME
 
 Jifty::Plugin::Authentication::Bitcard::Dispatcher - Bitcard plugin dispatcher
@@ -91,7 +93,7 @@ before '/login' => run {
     ));
 };
 
-=head 2 before /bitcard_(login|signup)
+=head2 before /bitcard_(login|signup)
 
 Verify the bitcard login.
 

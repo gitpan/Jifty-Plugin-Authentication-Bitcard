@@ -18,18 +18,18 @@ SHA1 55dc42f4b208b82d8ebf7798cc4b89a844c4b29d Build.PL
 SHA1 0c9a48155496403dcd60fde8cd7d4402b71355fc Changes
 SHA1 f235ba4160673bcb7c9d58c2f09dbc7fc0efadea LICENSE
 SHA1 c8d34e20094cd5f9b114f7b23230c66acd75327c MANIFEST
-SHA1 611fe3e4be6b2f2b8a93b5299f7df0bda64cb86d META.yml
+SHA1 9ca39a1220c59ab1b0c7191c70c997dccc0a0ad5 META.yml
 SHA1 e86245b6a930636e230cc7607c02cdabe7d1e2fc Makefile.PL
 SHA1 78a6fc3ac4c690394b85a066b1e08721a365fa71 README
 SHA1 b1ade73bde538c73804a9aa2095427224b4bdb2c Todo
-SHA1 9c61efa2514ff79f52562c4e94b16d48c8cdce51 lib/Jifty/Plugin/Authentication/Bitcard.pm
-SHA1 e7e601402ccb069ca566739397078bacae781f5a lib/Jifty/Plugin/Authentication/Bitcard/Dispatcher.pm
-SHA1 ccc89111053b87bbf3bcfa79822269f62468b43f lib/Jifty/Plugin/Authentication/Bitcard/Mixin/Model/User.pm
+SHA1 b8f1cbd5da53ce3b7176b079d65c51bd849ba680 lib/Jifty/Plugin/Authentication/Bitcard.pm
+SHA1 09d5ee98db292e90e7816da358f71358ffb09dc2 lib/Jifty/Plugin/Authentication/Bitcard/Dispatcher.pm
+SHA1 b45766244826414ff5af3fa40089d810be60d5b9 lib/Jifty/Plugin/Authentication/Bitcard/Mixin/Model/User.pm
 SHA1 0e05554efc3e14b1b9f2d519fe4cb3f2347c392b t/001_load.t
 -----BEGIN PGP SIGNATURE-----
-Version: GnuPG v1.4.6 (GNU/Linux)
+Version: GnuPG v2.0.9 (GNU/Linux)
 
-iD8DBQFIXIBHRhLSniguQyERAuXhAJ40U/Rfvhzco2HieOk4XmCkixP82gCgo2M8
-lWMgmYW3HSyqx0qA32sGyhk=
-=Lqrk
+iEYEARECAAYFAklOIXcACgkQRhLSniguQyHoVQCgku4j8wOXPCf6dw/eHdqyd4qC
+EP4Anj/RtKknK4Y/dVUnT0hAEQmrz85M
+=DUk9
 -----END PGP SIGNATURE-----

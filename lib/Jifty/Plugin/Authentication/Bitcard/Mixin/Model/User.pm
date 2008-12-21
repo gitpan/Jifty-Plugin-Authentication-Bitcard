@@ -7,6 +7,8 @@ use base 'Jifty::DBI::Record::Plugin';
 
 use Authen::Bitcard ();
 
+our $VERSION = '0.053';
+
 our @EXPORT = qw/ /;
 
 =head1 NAME
